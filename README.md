@@ -1,2 +1,11 @@
 # hello-workd
-to organize simples projects to store ideas, resources and even share and discuss things
+
+Hi, I'm May-hub,
+
+i'm praticing coding and learning how to use github. This section,
+is where we can plcae store ideas,
+resoures or even share and dicuss thins with others.
+
+my reggards,
+
+Mr. May-hub
